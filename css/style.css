@@ -1,0 +1,36 @@
+.container {
+	min-height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.container form {
+	width: 500px;
+	padding: 20px;
+	border-radius: 10px;
+	color: white;
+	box-shadow: 0 4px 8px 0 rgba(7, 255, 20, 0.808), 0 6px 20px 0 rgba(7, 255, 20, 0.808);
+	background-image: url('https://media.istockphoto.com/vectors/print-vector-id1316043925?b=1&k=20&m=1316043925&s=612x612&w=0&h=Fsf8itFmCrv2PDCtIYLWTr3HuZB4SLMA0oZFXPDN-MU=');
+}
+.box {
+	width: 1250px;
+}
+.container table {
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 0 4px 8px 0 rgba(7, 255, 20, 0.808), 0 6px 20px 0 rgba(7, 255, 20, 0.808);
+	color: rgb(255, 255, 255);
+	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCiPG-YM5--aQA5POXxyVuRSUnONY6bCsIDA&usqp=CAU');background-repeat: no-repeat; background-position-x: center;background-size: 1500px;
+}
+.link-right {
+	display: flex;
+	justify-content: flex-end;
+}
+body {
+    background-image: url('https://media.istockphoto.com/vectors/print-vector-id1316043925?b=1&k=20&m=1316043925&s=612x612&w=0&h=Fsf8itFmCrv2PDCtIYLWTr3HuZB4SLMA0oZFXPDN-MU=');background-repeat: no-repeat; background-position-x: center;background-size: 2000px;
+}
+form{
+	background-image: url('https://media.istockphoto.com/vectors/print-vector-id1316043925?b=1&k=20&m=1316043925&s=612x612&w=0&h=Fsf8itFmCrv2PDCtIYLWTr3HuZB4SLMA0oZFXPDN-MU=');
+}
+h4{color: white;}
